@@ -1,0 +1,18 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Essay.aux
+The style file: plain.bst
+Database file #1: bibReferences1.bib
+Warning--entry type for "ChrisKohler2009" isn't style-file defined
+--line 19 of file bibReferences1.bib
+Warning--entry type for "SegaRetro" isn't style-file defined
+--line 79 of file bibReferences1.bib
+Warning--entry type for "SegaSG-1000" isn't style-file defined
+--line 100 of file bibReferences1.bib
+Warning--entry type for "VideoGameConsoleLibrary" isn't style-file defined
+--line 105 of file bibReferences1.bib
+Warning--to sort, need author or key in game:MissionControl
+Warning--to sort, need author or key in game:SpaceInvaders
+Warning--to sort, need author or key in game:Asteroids
+Warning--to sort, need author or key in SegaRetro
+Warning--to sort, need author or key in VideoGameConsoleLibrary
+Warning--to sort, need author or key in SegaSG-1000
+(There were 10 warnings)
